@@ -1,2 +1,2 @@
-# mvn-demo-webapp
-simple maven based web application project template
+# mvn-demo-webapp-standalone
+simple maven based tomcat embedded web application project template
